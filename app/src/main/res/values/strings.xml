@@ -1,0 +1,32 @@
+<resources>
+    <!-- Strings related to Home page -->
+    <string name="app_name">NariShakthi</string>
+    <string name="app_desc">Want to be protected all the time? This app can protect you always!</string>
+    <string name="btn_desc">Let us get started!!</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Log in</string>
+    <string name="action_sign_in_short">Log in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="action_reg_button">Register</string>
+    <string name="title_activity_register">Register</string>
+
+    <!--strings for registration page-->
+    <string name="name">First Name</string>
+    <string name="lname">Last Name</string>
+    <string name="mail">Email id</string>
+    <string name="pword">Password</string>
+    <string name="prompt_pword">Repeat Password</string>
+    <string name="dob">Date of birth</string>
+    <string name="country">Country</string>
+    <string name="city">City</string>
+</resources>
