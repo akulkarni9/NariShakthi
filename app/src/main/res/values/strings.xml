@@ -19,6 +19,7 @@
     </string>
     <string name="action_reg_button">Register</string>
     <string name="title_activity_register">Register</string>
+    <string name="forgot">Forgot password?</string>
 
     <!--strings for registration page-->
     <string name="name">First Name</string>
@@ -29,4 +30,5 @@
     <string name="dob">Date of birth</string>
     <string name="country">Country</string>
     <string name="city">City</string>
+    <string name="title_activity_forgot">Forgot Password</string>
 </resources>
